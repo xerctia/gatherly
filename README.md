@@ -15,8 +15,8 @@
 #### Installation
 1. Clone the repository.<br>
    `
-   git clone https://github.com/xerctia/gatherly
-   cd gatherly
+   git clone https://github.com/xerctia/gatherly`<br>
+   `cd gatherly
    `<br><br>
 2. Install dependencies.<br>
    `npm install`<br><br>
