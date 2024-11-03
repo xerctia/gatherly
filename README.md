@@ -22,8 +22,8 @@
    `npm install`<br><br>
 3. Setup environment variables in .env file:<br>
    `
-   DATABASE_URL=your_supabase_database_url
-   NODE_TLS_REJECT_UNAUTHORIZED=0
+   DATABASE_URL=your_supabase_database_url`<br>
+   `NODE_TLS_REJECT_UNAUTHORIZED=0
    `<br>
    <b>Note:</b> Replace your_supabase_database_url with your actual Supabase Postgres URL. You can find it in the project settings under Database tab.<br><br>
 4. Create tables in Supabase according to the rows you need, and update queries in index.js accordingly.<br><br>
