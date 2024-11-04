@@ -1,7 +1,6 @@
 const express = require('express');
 const cors = require('cors')
 const pool = require('./db');
-const result = require("pg/lib/query");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
